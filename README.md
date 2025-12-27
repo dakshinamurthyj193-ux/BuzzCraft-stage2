@@ -13,7 +13,7 @@
 - Andriod Emulator/Andriod Device
 ---
 ## App Architecture /Flow
-- Home -> Report -> Confirmab=tion
+- Home -> Report -> Confirmation
 ---   
 ## Setup Instrcutions
 1. Clone repo
